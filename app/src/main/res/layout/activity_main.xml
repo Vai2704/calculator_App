@@ -17,7 +17,7 @@
         android:layout_marginBottom="16dp"
         android:textAlignment="textEnd"
         android:textColor="@color/black"
-        android:textSize="64sp" />
+        android:textSize="56dp" />
 
     <TextView
         android:id="@+id/idTVResult"

@@ -54,7 +54,7 @@ void assignID(MaterialButton btn , int id){
         String dataToCalculate = TVSolution.getText().toString();
 
         if (ButtonText.equals("AC")) {
-            TVSolution.setText("");
+            TVSolution.setText("0");
             TVResult.setText("0");
             return;
         }
